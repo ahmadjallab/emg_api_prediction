@@ -117,3 +117,5 @@ images: Declares the image built during the process (for reference).
 This Cloud Build configuration automates the CI/CD pipeline for your Cloud Run service. It dynamically creates image tags and deploys to the specified region based on environment variables. Remember to set appropriate values for $PROJECT_ID and $_DEPLOY_REGION.
 
 ```
+#start practical process step 
+
