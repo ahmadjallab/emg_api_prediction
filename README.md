@@ -119,3 +119,7 @@ This Cloud Build configuration automates the CI/CD pipeline for your Cloud Run s
 ```
 #start practical process step 
 
+1. upload project to repo
+2. connect gcp cloud build with repo githup
+3. open cloud run link repo to cloud run by cloud build and choose docker image file after that back to Google Build change buildcloud.json or yaml command to run your command no default one 
+
