@@ -1,7 +1,4 @@
 steps:
-  - name: 'maven'
-    entrypoint: 'mvn'
-    args: ['clean', 'install', '-DskipTests']
   #https://cloud.google.com/build/docs/cloud-builders
   # Build the container image
   - name: 'gcr.io/cloud-builders/docker'
