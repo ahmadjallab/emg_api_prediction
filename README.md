@@ -1,3 +1,4 @@
+![diagram-export-12-26-2024-8_05_42-PM](https://github.com/user-attachments/assets/e4affce7-61b3-43e0-a93f-115c5c3de944)
 # each push will recompile cloud build trigger  
 🔗 Project Link: GitHub Repository🌐 Live API Link: EMG API Prediction [Link](https://emg-api-prediction-100723586486.us-central1.run.app/)
 ### 1. Write App (Flask, TensorFlow)
