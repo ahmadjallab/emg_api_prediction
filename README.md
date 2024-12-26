@@ -1,5 +1,5 @@
 # each push will recompile cloud build trigger  
-🔗 Project Link: GitHub Repository🌐 Live API Link: EMG API Prediction
+🔗 Project Link: GitHub Repository🌐 Live API Link: EMG API Prediction [Link](https://emg-api-prediction-100723586486.us-central1.run.app/)
 ### 1. Write App (Flask, TensorFlow)
 - The code to build, train, and save the model is in the `test` folder.
 - Implement the app in `main.py`
